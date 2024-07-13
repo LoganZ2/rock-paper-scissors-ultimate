@@ -1,0 +1,6 @@
+@rpsu_server_HostAddress = http://localhost:5208
+
+GET {{rpsu_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

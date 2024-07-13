@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/v0+DWAHuEAp3vKD/d8l3dFD/+LxSGd1ua60yg1tvKI=",
+  "Source": "rpsu-server",
+  "BasePath": "_content/rpsu-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
