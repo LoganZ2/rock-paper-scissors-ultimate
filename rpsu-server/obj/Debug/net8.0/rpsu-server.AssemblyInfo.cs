@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rpsu-server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+594bfbb98bbcc104b7c2a6eafc11b97b70ba2736")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e4445d479a498747078d3c9ff34a333a410609")]
 [assembly: System.Reflection.AssemblyProductAttribute("rpsu-server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rpsu-server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

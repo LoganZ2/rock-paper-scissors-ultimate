@@ -1,4 +1,4 @@
-@rpsu_server_HostAddress = http://localhost:5208
+@rpsu_server_HostAddress = http://localhost:5236
 
 GET {{rpsu_server_HostAddress}}/weatherforecast/
 Accept: application/json
