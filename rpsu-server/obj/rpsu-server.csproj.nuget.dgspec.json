@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj": {}
+    "d:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj": {}
   },
   "projects": {
-    "d:\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj": {
+    "d:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
+        "projectUniqueName": "d:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
         "projectName": "rpsu-server",
-        "projectPath": "d:\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
+        "projectPath": "d:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
         "packagesPath": "C:\\Users\\58161\\.nuget\\packages\\",
-        "outputPath": "d:\\rock-paper-scissors-ultimate\\rpsu-server\\obj\\",
+        "outputPath": "d:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

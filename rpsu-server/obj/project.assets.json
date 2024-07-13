@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
+      "projectUniqueName": "D:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
       "projectName": "rpsu-server",
-      "projectPath": "D:\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
+      "projectPath": "D:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\rpsu-server.csproj",
       "packagesPath": "C:\\Users\\58161\\.nuget\\packages\\",
-      "outputPath": "D:\\rock-paper-scissors-ultimate\\rpsu-server\\obj\\",
+      "outputPath": "D:\\rock-paper-scissors-ultimate\\rock-paper-scissors-ultimate\\rpsu-server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
